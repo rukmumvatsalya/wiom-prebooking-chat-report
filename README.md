@@ -5,7 +5,7 @@ What happens when customers click help before booking?
 An analysis of the Wiom in-app support chat across the six pre-booking pages,
 comparing 8–30 June 2026 against 1–22 July 2026, counted against first-time app opens.
 
-**[Read the report →](https://REPLACE_ME)**
+**[Read the report →](https://rukmumvatsalya.github.io/wiom-prebooking-chat-report/)**
 
 ## Scope
 
